@@ -12,8 +12,8 @@ publish = false
 workspace = true
 
 [dependencies]
-mycelium-core = { git = "https://github.com/tzervas/mycelium-core", rev = "781d3fcceba82acfe6b0eb46650513bd78a2416b" }
-mycelium-dense = { git = "https://github.com/tzervas/mycelium-value", rev = "fce92daed05e9f10202c202648ec43fb0a6991d7" }
+mycelium-core = { git = "https://github.com/tzervas/mycelium-core", rev = "46d2515cbd86d2ae4d1365f4adcd2796737e9f0b" }
+mycelium-dense = { git = "https://github.com/tzervas/mycelium-value", rev = "6d230ad2023a716704c697ac6812a2062624b4eb" }
 
 # --- standalone workspace root (course-correction Phase B, 2026-07-18; steer handoff §6.2) ---
 [workspace]
