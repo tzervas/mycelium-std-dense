@@ -13,7 +13,7 @@ workspace = true
 
 [dependencies]
 mycelium-core = { git = "https://github.com/tzervas/mycelium-core", rev = "3958d2ea3c3921611e33f1f00e3469b29a939a76" }
-mycelium-dense = { git = "https://github.com/tzervas/mycelium-value", rev = "6d230ad2023a716704c697ac6812a2062624b4eb" }
+mycelium-dense = { git = "https://github.com/tzervas/mycelium-value", rev = "4e7e800eeaf392d4dcace425a618b43a528338ef" }
 
 # --- standalone workspace root (course-correction Phase B, 2026-07-18; steer handoff §6.2) ---
 [workspace]
